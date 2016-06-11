@@ -34,6 +34,6 @@ for ability in abilities:
 
 	heroes.get(hero)["abilities"][ability[tmp_index+1:]] = (abilities.get(ability))
 
-with open("heroes.txt", 'w') as f:
+with open("heroes.json", 'w') as f:
     json_data = json.dumps(heroes, sort_keys=True, indent=4, separators=(',', ': '))
     f.write(json_data)

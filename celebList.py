@@ -14,7 +14,7 @@ soup = BeautifulSoup(data, "html.parser")
 
 #List of top 100 celebs
 data = soup.find_all(attrs={"class": "channelListEntry"})
-celebs = []
+celebs = {}
 
 i = 1
 for div in data:
@@ -79,10 +79,10 @@ for div in data:
         i = i+1
 
         #Add celeb to celeb list
-        celebs.append(celeb)        
+        celebs[celeb_name] = (celeb)        
 
 
-with open("celebs.txt", 'w') as f:
+with open("celebs.json", 'w') as f:
     json_data = json.dumps(celebs, sort_keys=True, indent=4, separators=(',', ': '))
     f.write(json_data)
 

@@ -1,621 +1,5 @@
-[
-    {
-        "age": " 25 ",
-        "birth": " Nov 26 1990 ",
-        "birth-place": " West London, England ",
-        "gender": "f",
-        "name": "Rita Ora",
-        "rank": 1
-    },
-    {
-        "age": " 22 ",
-        "birth": " Mar 1 1994 ",
-        "birth-place": " Stratford, Canada ",
-        "gender": "unknown",
-        "name": "Justin Bieber",
-        "rank": 2
-    },
-    {
-        "age": " 29 ",
-        "birth": " Mar 17 1987 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "unknown",
-        "name": "Rob Kardashian",
-        "rank": 3
-    },
-    {
-        "age": " 23 ",
-        "birth": " Jan 12 1993 ",
-        "birth-place": " West Lane Beldon ",
-        "gender": "unknown",
-        "name": "Zayn Malik",
-        "rank": 4
-    },
-    {
-        "age": " 39 ",
-        "birth": " Jun 8 1977 ",
-        "birth-place": " Atlanta, USA ",
-        "gender": "unknown",
-        "name": "Kanye West",
-        "rank": 5
-    },
-    {
-        "age": " 20 ",
-        "birth": " Nov 3 1995 ",
-        "birth-place": " Los Angeles, California, USA ",
-        "gender": "unknown",
-        "name": "Kendall Jenner",
-        "rank": 6
-    },
-    {
-        "age": " 31 ",
-        "birth": " Jun 27 1984 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "unknown",
-        "name": "Khloe Kardashian",
-        "rank": 7
-    },
-    {
-        "age": " 50 ",
-        "birth": " Aug 29 1958 ",
-        "birth-place": " Gary, Indiana, USA ",
-        "gender": "unknown",
-        "name": "Michael Jackson",
-        "rank": 8
-    },
-    {
-        "age": " 42 ",
-        "birth": " Dec 4 1973 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "unknown",
-        "name": "Tyra Banks",
-        "rank": 9
-    },
-    {
-        "age": " 35 ",
-        "birth": " May 15 1981 ",
-        "birth-place": " New York, USA ",
-        "gender": "unknown",
-        "name": "Jamielynn Sigler",
-        "rank": 10
-    },
-    {
-        "age": " 29 ",
-        "birth": " Dec 30 1986 ",
-        "birth-place": " Hereford, England ",
-        "gender": "unknown",
-        "name": "Ellie Goulding",
-        "rank": 11
-    },
-    {
-        "age": " 48 ",
-        "birth": " Dec 13 1967 ",
-        "birth-place": " Terrell, Texas, USA ",
-        "gender": "unknown",
-        "name": "Jamie Foxx",
-        "rank": 12
-    },
-    {
-        "age": " 62 ",
-        "birth": " Jan 29 1954 ",
-        "birth-place": " Kosciusko, Mississippi, USA ",
-        "gender": "f",
-        "name": "Oprah Winfrey",
-        "rank": 13
-    },
-    {
-        "age": " 33 ",
-        "birth": " Feb 23 1983 ",
-        "birth-place": " London, England ",
-        "gender": "f",
-        "name": "Emily Blunt",
-        "rank": 14
-    },
-    {
-        "age": " 23 ",
-        "birth": " Aug 12 1992 ",
-        "birth-place": " London, England ",
-        "gender": "unknown",
-        "name": "Cara Delevingne",
-        "rank": 15
-    },
-    {
-        "age": " 18 ",
-        "birth": " Aug 10 1997 ",
-        "birth-place": " California, USA ",
-        "gender": "unknown",
-        "name": "Kylie Jenner",
-        "rank": 16
-    },
-    {
-        "age": " 37 ",
-        "birth": " Apr 19 1979 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "unknown",
-        "name": "Kate Hudson",
-        "rank": 17
-    },
-    {
-        "age": " 24 ",
-        "birth": " Dec 24 1991 ",
-        "birth-place": " Doncaster, England ",
-        "gender": "unknown",
-        "name": "Louis Tomlinson",
-        "rank": 18
-    },
-    {
-        "age": " 43 ",
-        "birth": " Jul 10 1972 ",
-        "birth-place": " Colombia ",
-        "gender": "unknown",
-        "name": "Sofia Vergara",
-        "rank": 19
-    },
-    {
-        "age": " 27 ",
-        "birth": " May 16 1989 ",
-        "birth-place": " Johannesburg, South Africa ",
-        "gender": "unknown",
-        "name": "Behati Prinsloo",
-        "rank": 20
-    },
-    {
-        "age": " 44 ",
-        "birth": " Apr 17 1972 ",
-        "birth-place": " Texas, USA ",
-        "gender": "f",
-        "name": "Jennifer Garner",
-        "rank": 21
-    },
-    {
-        "age": " 46 ",
-        "birth": " Mar 27 1970 ",
-        "birth-place": " New York, USA ",
-        "gender": "f",
-        "name": "Mariah Carey",
-        "rank": 22
-    },
-    {
-        "age": " 49 ",
-        "birth": " Sep 2 1966 ",
-        "birth-place": " Veracruz, Mexico ",
-        "gender": "f",
-        "name": "Salma Hayek",
-        "rank": 23
-    },
-    {
-        "age": " 19 ",
-        "birth": " Feb 10 1997 ",
-        "birth-place": " Atlanta, Georgia, U.S. ",
-        "gender": "f",
-        "name": "Chloe Grace Moretz",
-        "rank": 24
-    },
-    {
-        "age": " 29 ",
-        "birth": " Jan 5 1987 ",
-        "birth-place": " Denver, USA ",
-        "gender": "unknown",
-        "name": "Kristin Cavallari",
-        "rank": 25
-    },
-    {
-        "age": " 28 ",
-        "birth": " Nov 23 1987 ",
-        "birth-place": " Santiago, Chile ",
-        "gender": "unknown",
-        "name": "Snooki",
-        "rank": 26
-    },
-    {
-        "age": " 43 ",
-        "birth": " Oct 17 1972 ",
-        "birth-place": " Missouri, USA ",
-        "gender": "unknown",
-        "name": "Eminem",
-        "rank": 27
-    },
-    {
-        "age": " 43 ",
-        "birth": " May 16 1973 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "f",
-        "name": "Tori Spelling",
-        "rank": 28
-    },
-    {
-        "age": " 46 ",
-        "birth": " Jul 24 1969 ",
-        "birth-place": " New York, USA ",
-        "gender": "unknown",
-        "name": "Jennifer Lopez",
-        "rank": 29
-    },
-    {
-        "age": " 39 ",
-        "birth": " Mar 2 1977 ",
-        "birth-place": " Devon, England ",
-        "gender": "unknown",
-        "name": "Chris Martin",
-        "rank": 30
-    },
-    {
-        "age": " 23 ",
-        "birth": " Jul 22 1992 ",
-        "birth-place": " New York, USA ",
-        "gender": "unknown",
-        "name": "Selena Gomez",
-        "rank": 31
-    },
-    {
-        "age": " 39 ",
-        "birth": " Oct 23 1976 ",
-        "birth-place": " Sutton Coldfield, England ",
-        "gender": "f",
-        "name": "Cat Deeley",
-        "rank": 32
-    },
-    {
-        "age": " 42 ",
-        "birth": " Apr 28 1974 ",
-        "birth-place": " Madrid, Spa",
-        "gender": "unknown",
-        "name": "Penelope Cruz",
-        "rank": 33
-    },
-    {
-        "age": " 36 ",
-        "birth": " Oct 20 1979 ",
-        "birth-place": " Newton, Massachusetts, USA ",
-        "gender": "unknown",
-        "name": "John Krasinski",
-        "rank": 34
-    },
-    {
-        "age": " 27 ",
-        "birth": " Aug 16 1988 ",
-        "birth-place": " Paducah, Kentucky, USA ",
-        "gender": "unknown",
-        "name": "Rumer Willis",
-        "rank": 35
-    },
-    {
-        "age": " 68 ",
-        "birth": " Mar 26 1948 ",
-        "birth-place": " Yonkers, New York, USA ",
-        "gender": "unknown",
-        "name": "Steven Tyler",
-        "rank": 36
-    },
-    {
-        "age": " 48 ",
-        "birth": " Sep 8 1967 ",
-        "birth-place": " Sydney, Australia ",
-        "gender": "unknown",
-        "name": "James Packer",
-        "rank": 37
-    },
-    {
-        "age": " 31 ",
-        "birth": " Sep 27 1984 ",
-        "birth-place": " Ontario, USA ",
-        "gender": "f",
-        "name": "Avril Lavigne",
-        "rank": 38
-    },
-    {
-        "age": " 33 ",
-        "birth": " Jul 18 1982 ",
-        "birth-place": " Dallas, Texas, USA ",
-        "gender": "unknown",
-        "name": "Ryan Cabrera",
-        "rank": 39
-    },
-    {
-        "age": " 35 ",
-        "birth": " Oct 21 1980 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "unknown",
-        "name": "Kim Kardashian",
-        "rank": 40
-    },
-    {
-        "age": " 26 ",
-        "birth": " Jan 1 1990 ",
-        "birth-place": " Melbourne, Australia ",
-        "gender": "unknown",
-        "name": "Liam Hemsworth",
-        "rank": 41
-    },
-    {
-        "age": " 26 ",
-        "birth": " Nov 19 1989 ",
-        "birth-place": " Compton, California ",
-        "gender": "unknown",
-        "name": "Tyga",
-        "rank": 42
-    },
-    {
-        "age": " 45 ",
-        "birth": " Feb 17 1971 ",
-        "birth-place": " Ill",
-        "gender": "f",
-        "name": "Denise Richards",
-        "rank": 43
-    },
-    {
-        "age": " 23 ",
-        "birth": " Nov 23 1992 ",
-        "birth-place": " Nashville, USA ",
-        "gender": "unknown",
-        "name": "Miley Cyrus",
-        "rank": 44
-    },
-    {
-        "age": " 51 ",
-        "birth": " Feb 7 1965 ",
-        "birth-place": " Andrews, South Carol",
-        "gender": "unknown",
-        "name": "Chris Rock",
-        "rank": 45
-    },
-    {
-        "age": " 33 ",
-        "birth": " Jan 1 1983 ",
-        "birth-place": " New york ",
-        "gender": "unknown",
-        "name": "Scott Disick",
-        "rank": 46
-    },
-    {
-        "age": "unknown",
-        "birth": "unknown",
-        "birth-place": " ",
-        "gender": "unknown",
-        "name": "Gigi Hadid",
-        "rank": 47
-    },
-    {
-        "age": " 22 ",
-        "birth": " Feb 1 1994 ",
-        "birth-place": " Evesham ",
-        "gender": "unknown",
-        "name": "Harry Styles",
-        "rank": 48
-    },
-    {
-        "age": " 51 ",
-        "birth": " Sep 30 1964 ",
-        "birth-place": " Umbria, Italy ",
-        "gender": "unknown",
-        "name": "Monica Bellucci",
-        "rank": 49
-    },
-    {
-        "age": " 43 ",
-        "birth": " Sep 27 1972 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "unknown",
-        "name": "Gwyneth Paltrow",
-        "rank": 50
-    },
-    {
-        "age": " 50 ",
-        "birth": " Sep 3 1965 ",
-        "birth-place": " New York, USA ",
-        "gender": "unknown",
-        "name": "Charlie Sheen",
-        "rank": 51
-    },
-    {
-        "age": " 59 ",
-        "birth": " Mar 20 1957 ",
-        "birth-place": " Atlanta, Georgia, USA ",
-        "gender": "unknown",
-        "name": "Spike Lee",
-        "rank": 52
-    },
-    {
-        "age": " 44 ",
-        "birth": " Sep 18 1971 ",
-        "birth-place": " Baltimore, Maryland, USA ",
-        "gender": "unknown",
-        "name": "Jada Pinkett Smith",
-        "rank": 53
-    },
-    {
-        "age": " 35 ",
-        "birth": " Oct 8 1980 ",
-        "birth-place": " San Diego, California, USA ",
-        "gender": "unknown",
-        "name": "Nick Cannon",
-        "rank": 54
-    },
-    {
-        "age": " 25 ",
-        "birth": " Jan 12 1991 ",
-        "birth-place": " Kent, England ",
-        "gender": "f",
-        "name": "Pixie Lott",
-        "rank": 55
-    },
-    {
-        "age": " 26 ",
-        "birth": " Apr 9 1990 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "f",
-        "name": "Kristen Stewart",
-        "rank": 56
-    },
-    {
-        "age": " 60 ",
-        "birth": " Nov 5 1955 ",
-        "birth-place": " San Diego, California, USA ",
-        "gender": "f",
-        "name": "Kris Jenner",
-        "rank": 57
-    },
-    {
-        "age": " 30 ",
-        "birth": " Apr 11 1986 ",
-        "birth-place": " Orange County, Los Angeles, USA ",
-        "gender": "unknown",
-        "name": "Stephanie Pratt",
-        "rank": 58
-    },
-    {
-        "age": " 31 ",
-        "birth": " Apr 20 1985 ",
-        "birth-place": " Gunnedah, Australia ",
-        "gender": "unknown",
-        "name": "Miranda Kerr",
-        "rank": 59
-    },
-    {
-        "age": " 26 ",
-        "birth": " Apr 15 1990 ",
-        "birth-place": " Paris, France ",
-        "gender": "unknown",
-        "name": "Emma Watson",
-        "rank": 60
-    },
-    {
-        "age": " 35 ",
-        "birth": " Sep 9 1980 ",
-        "birth-place": " Montana, USA ",
-        "gender": "f",
-        "name": "Michelle Williams",
-        "rank": 61
-    },
-    {
-        "age": "unknown",
-        "birth": "unknown",
-        "birth-place": "unknown",
-        "gender": "unknown",
-        "name": "Olivia Munn",
-        "rank": 62
-    },
-    {
-        "age": " 41 ",
-        "birth": " Nov 11 1974 ",
-        "birth-place": " Hollywood, USA ",
-        "gender": "unknown",
-        "name": "Leonardo Dicaprio",
-        "rank": 63
-    },
-    {
-        "age": " 30 ",
-        "birth": " Apr 30 1986 ",
-        "birth-place": " Georgia, USA ",
-        "gender": "f",
-        "name": "Dianna Agron",
-        "rank": 64
-    },
-    {
-        "age": " 27 ",
-        "birth": " Feb 26 1989 ",
-        "birth-place": " England ",
-        "gender": "unknown",
-        "name": "Winston Marshall",
-        "rank": 65
-    },
-    {
-        "age": " 28 ",
-        "birth": " Feb 20 1988 ",
-        "birth-place": " St. Michael, Barbados ",
-        "gender": "m",
-        "name": "Rihanna",
-        "rank": 66
-    },
-    {
-        "age": " 29 ",
-        "birth": " Mar 20 1987 ",
-        "birth-place": " USA ",
-        "gender": "unknown",
-        "name": "Jionni Lavalle",
-        "rank": 67
-    },
-    {
-        "age": " 37 ",
-        "birth": " Apr 18 1979 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "unknown",
-        "name": "Kourtney Kardashian",
-        "rank": 68
-    },
-    {
-        "age": " 47 ",
-        "birth": " Sep 25 1968 ",
-        "birth-place": " Philadelphia, USA ",
-        "gender": "unknown",
-        "name": "Will Smith",
-        "rank": 69
-    },
-    {
-        "age": " 34 ",
-        "birth": " Jan 1 1982 ",
-        "birth-place": " USA ",
-        "gender": "f",
-        "name": "Amber Rose",
-        "rank": 70
-    },
-    {
-        "age": " 53 ",
-        "birth": " Feb 19 1963 ",
-        "birth-place": " London, England ",
-        "gender": "m",
-        "name": "Seal",
-        "rank": 71
-    },
-    {
-        "age": " 26 ",
-        "birth": " Dec 13 1989 ",
-        "birth-place": " Wyomiss",
-        "gender": "f",
-        "name": "Taylor Swift",
-        "rank": 72
-    },
-    {
-        "age": " 40 ",
-        "birth": " Jul 17 1975 ",
-        "birth-place": " Las Vegas, Nevada, USA ",
-        "gender": "unknown",
-        "name": "Carey Hart",
-        "rank": 73
-    },
-    {
-        "age": " 49 ",
-        "birth": " Nov 16 1966 ",
-        "birth-place": " Toronto, Canada ",
-        "gender": "unknown",
-        "name": "Dean Mcdermott",
-        "rank": 74
-    },
-    {
-        "age": " 55 ",
-        "birth": " May 6 1961 ",
-        "birth-place": " Lex",
-        "gender": "m",
-        "name": "George Clooney",
-        "rank": 75
-    },
-    {
-        "age": " 36 ",
-        "birth": " Nov 25 1979 ",
-        "birth-place": " Sweden ",
-        "gender": "m",
-        "name": "Joel Kinnaman",
-        "rank": 76
-    },
-    {
-        "age": " 44 ",
-        "birth": " Dec 26 1971 ",
-        "birth-place": " Louisiana, USA ",
-        "gender": "unknown",
-        "name": "Jared Leto",
-        "rank": 77
-    },
-    {
+{
+    "50 Cent": {
         "age": " 40 ",
         "birth": " Jul 6 1975 ",
         "birth-place": " South Jamaica, Queens, New York, USA ",
@@ -623,31 +7,7 @@
         "name": "50 Cent",
         "rank": 78
     },
-    {
-        "age": " 25 ",
-        "birth": " Jul 2 1990 ",
-        "birth-place": " Australia ",
-        "gender": "f",
-        "name": "Margot Robbie",
-        "rank": 79
-    },
-    {
-        "age": " 46 ",
-        "birth": " May 4 1970 ",
-        "birth-place": " Toronto, Ontario, Canada ",
-        "gender": "unknown",
-        "name": "Will Arnett",
-        "rank": 80
-    },
-    {
-        "age": " 47 ",
-        "birth": " Feb 11 1969 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "f",
-        "name": "Jennifer Aniston",
-        "rank": 81
-    },
-    {
+    "Alicia Vikander": {
         "age": " 28 ",
         "birth": " Mar 10 1988 ",
         "birth-place": " Gothenburg, Sweden ",
@@ -655,55 +15,31 @@
         "name": "Alicia Vikander",
         "rank": 82
     },
-    {
-        "age": " 27 ",
-        "birth": " Dec 1 1988 ",
-        "birth-place": " Los Angeles, USA ",
-        "gender": "unknown",
-        "name": "Zoe Kravitz",
-        "rank": 83
-    },
-    {
-        "age": " 26 ",
-        "birth": " Aug 21 1989 ",
-        "birth-place": " New York, USA ",
-        "gender": "unknown",
-        "name": "Hayden Panettiere",
-        "rank": 84
-    },
-    {
-        "age": " 45 ",
-        "birth": " Jan 15 1971 ",
-        "birth-place": " Los Angeles, California, USA ",
+    "Amber Rose": {
+        "age": " 34 ",
+        "birth": " Jan 1 1982 ",
+        "birth-place": " USA ",
         "gender": "f",
-        "name": "Regina King",
-        "rank": 85
+        "name": "Amber Rose",
+        "rank": 70
     },
-    {
-        "age": " 19 ",
-        "birth": " Nov 22 1996 ",
-        "birth-place": " Tucson, Arizona, USA ",
+    "Avril Lavigne": {
+        "age": " 31 ",
+        "birth": " Sep 27 1984 ",
+        "birth-place": " Ontario, USA ",
+        "gender": "f",
+        "name": "Avril Lavigne",
+        "rank": 38
+    },
+    "Behati Prinsloo": {
+        "age": " 27 ",
+        "birth": " May 16 1989 ",
+        "birth-place": " Johannesburg, South Africa ",
         "gender": "unknown",
-        "name": "Hailey Baldwin",
-        "rank": 86
+        "name": "Behati Prinsloo",
+        "rank": 20
     },
-    {
-        "age": " 44 ",
-        "birth": " Aug 10 1971 ",
-        "birth-place": " Wash",
-        "gender": "unknown",
-        "name": "Justin Theroux",
-        "rank": 87
-    },
-    {
-        "age": " 50 ",
-        "birth": " May 12 1966 ",
-        "birth-place": " Massapequa, New York, USA ",
-        "gender": "m",
-        "name": "Stephen Baldwin",
-        "rank": 88
-    },
-    {
+    "Bryce Dallas Howard": {
         "age": " 35 ",
         "birth": " Mar 2 1981 ",
         "birth-place": " Los Angeles, California, USA ",
@@ -711,23 +47,167 @@
         "name": "Bryce Dallas Howard",
         "rank": 89
     },
-    {
-        "age": " 30 ",
-        "birth": " Nov 30 1985 ",
-        "birth-place": " Camarillo, California, USA ",
-        "gender": "f",
-        "name": "Kaley Cuoco",
-        "rank": 90
-    },
-    {
-        "age": " 43 ",
-        "birth": " Sep 12 1972 ",
+    "Cara Delevingne": {
+        "age": " 23 ",
+        "birth": " Aug 12 1992 ",
         "birth-place": " London, England ",
-        "gender": "m",
-        "name": "Jason Statham",
-        "rank": 91
+        "gender": "unknown",
+        "name": "Cara Delevingne",
+        "rank": 15
     },
-    {
+    "Carey Hart": {
+        "age": " 40 ",
+        "birth": " Jul 17 1975 ",
+        "birth-place": " Las Vegas, Nevada, USA ",
+        "gender": "unknown",
+        "name": "Carey Hart",
+        "rank": 73
+    },
+    "Cat Deeley": {
+        "age": " 39 ",
+        "birth": " Oct 23 1976 ",
+        "birth-place": " Sutton Coldfield, England ",
+        "gender": "f",
+        "name": "Cat Deeley",
+        "rank": 32
+    },
+    "Charlie Sheen": {
+        "age": " 50 ",
+        "birth": " Sep 3 1965 ",
+        "birth-place": " New York, USA ",
+        "gender": "unknown",
+        "name": "Charlie Sheen",
+        "rank": 51
+    },
+    "Chloe Grace Moretz": {
+        "age": " 19 ",
+        "birth": " Feb 10 1997 ",
+        "birth-place": " Atlanta, Georgia, U.S. ",
+        "gender": "f",
+        "name": "Chloe Grace Moretz",
+        "rank": 24
+    },
+    "Chris Martin": {
+        "age": " 39 ",
+        "birth": " Mar 2 1977 ",
+        "birth-place": " Devon, England ",
+        "gender": "unknown",
+        "name": "Chris Martin",
+        "rank": 30
+    },
+    "Chris Rock": {
+        "age": " 51 ",
+        "birth": " Feb 7 1965 ",
+        "birth-place": " Andrews, South Carol",
+        "gender": "unknown",
+        "name": "Chris Rock",
+        "rank": 45
+    },
+    "Dean Mcdermott": {
+        "age": " 49 ",
+        "birth": " Nov 16 1966 ",
+        "birth-place": " Toronto, Canada ",
+        "gender": "unknown",
+        "name": "Dean Mcdermott",
+        "rank": 74
+    },
+    "Denise Richards": {
+        "age": " 45 ",
+        "birth": " Feb 17 1971 ",
+        "birth-place": " Ill",
+        "gender": "f",
+        "name": "Denise Richards",
+        "rank": 43
+    },
+    "Dianna Agron": {
+        "age": " 30 ",
+        "birth": " Apr 30 1986 ",
+        "birth-place": " Georgia, USA ",
+        "gender": "f",
+        "name": "Dianna Agron",
+        "rank": 64
+    },
+    "Ellie Goulding": {
+        "age": " 29 ",
+        "birth": " Dec 30 1986 ",
+        "birth-place": " Hereford, England ",
+        "gender": "unknown",
+        "name": "Ellie Goulding",
+        "rank": 11
+    },
+    "Emily Blunt": {
+        "age": " 33 ",
+        "birth": " Feb 23 1983 ",
+        "birth-place": " London, England ",
+        "gender": "f",
+        "name": "Emily Blunt",
+        "rank": 14
+    },
+    "Eminem": {
+        "age": " 43 ",
+        "birth": " Oct 17 1972 ",
+        "birth-place": " Missouri, USA ",
+        "gender": "unknown",
+        "name": "Eminem",
+        "rank": 27
+    },
+    "Emma Watson": {
+        "age": " 26 ",
+        "birth": " Apr 15 1990 ",
+        "birth-place": " Paris, France ",
+        "gender": "unknown",
+        "name": "Emma Watson",
+        "rank": 60
+    },
+    "George Clooney": {
+        "age": " 55 ",
+        "birth": " May 6 1961 ",
+        "birth-place": " Lex",
+        "gender": "m",
+        "name": "George Clooney",
+        "rank": 75
+    },
+    "Gigi Hadid": {
+        "age": "unknown",
+        "birth": "unknown",
+        "birth-place": " ",
+        "gender": "unknown",
+        "name": "Gigi Hadid",
+        "rank": 47
+    },
+    "Gwyneth Paltrow": {
+        "age": " 43 ",
+        "birth": " Sep 27 1972 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "unknown",
+        "name": "Gwyneth Paltrow",
+        "rank": 50
+    },
+    "Hailey Baldwin": {
+        "age": " 19 ",
+        "birth": " Nov 22 1996 ",
+        "birth-place": " Tucson, Arizona, USA ",
+        "gender": "unknown",
+        "name": "Hailey Baldwin",
+        "rank": 86
+    },
+    "Harry Styles": {
+        "age": " 22 ",
+        "birth": " Feb 1 1994 ",
+        "birth-place": " Evesham ",
+        "gender": "unknown",
+        "name": "Harry Styles",
+        "rank": 48
+    },
+    "Hayden Panettiere": {
+        "age": " 26 ",
+        "birth": " Aug 21 1989 ",
+        "birth-place": " New York, USA ",
+        "gender": "unknown",
+        "name": "Hayden Panettiere",
+        "rank": 84
+    },
+    "Helen Mirren": {
         "age": " 70 ",
         "birth": " Jul 26 1945 ",
         "birth-place": " Chiswick, London, England ",
@@ -735,7 +215,39 @@
         "name": "Helen Mirren",
         "rank": 92
     },
-    {
+    "Jada Pinkett Smith": {
+        "age": " 44 ",
+        "birth": " Sep 18 1971 ",
+        "birth-place": " Baltimore, Maryland, USA ",
+        "gender": "unknown",
+        "name": "Jada Pinkett Smith",
+        "rank": 53
+    },
+    "James Packer": {
+        "age": " 48 ",
+        "birth": " Sep 8 1967 ",
+        "birth-place": " Sydney, Australia ",
+        "gender": "unknown",
+        "name": "James Packer",
+        "rank": 37
+    },
+    "Jamie Foxx": {
+        "age": " 48 ",
+        "birth": " Dec 13 1967 ",
+        "birth-place": " Terrell, Texas, USA ",
+        "gender": "unknown",
+        "name": "Jamie Foxx",
+        "rank": 12
+    },
+    "Jamielynn Sigler": {
+        "age": " 35 ",
+        "birth": " May 15 1981 ",
+        "birth-place": " New York, USA ",
+        "gender": "unknown",
+        "name": "Jamielynn Sigler",
+        "rank": 10
+    },
+    "January Jones": {
         "age": " 38 ",
         "birth": " Jan 5 1978 ",
         "birth-place": " Sioux Falls, South Dakota ",
@@ -743,31 +255,47 @@
         "name": "January Jones",
         "rank": 93
     },
-    {
-        "age": " 34 ",
-        "birth": " Dec 16 1981 ",
-        "birth-place": " Bloomsberg, Pennsylvania, USA ",
-        "gender": "f",
-        "name": "Krysten Ritter",
-        "rank": 94
-    },
-    {
-        "age": " 45 ",
-        "birth": " Oct 8 1970 ",
-        "birth-place": " Massachusetts, USA ",
+    "Jared Leto": {
+        "age": " 44 ",
+        "birth": " Dec 26 1971 ",
+        "birth-place": " Louisiana, USA ",
         "gender": "unknown",
-        "name": "Matt Damon",
-        "rank": 95
+        "name": "Jared Leto",
+        "rank": 77
     },
-    {
-        "age": " 38 ",
-        "birth": " Jul 1 1977 ",
+    "Jason Statham": {
+        "age": " 43 ",
+        "birth": " Sep 12 1972 ",
+        "birth-place": " London, England ",
+        "gender": "m",
+        "name": "Jason Statham",
+        "rank": 91
+    },
+    "Jennifer Aniston": {
+        "age": " 47 ",
+        "birth": " Feb 11 1969 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "f",
+        "name": "Jennifer Aniston",
+        "rank": 81
+    },
+    "Jennifer Garner": {
+        "age": " 44 ",
+        "birth": " Apr 17 1972 ",
+        "birth-place": " Texas, USA ",
+        "gender": "f",
+        "name": "Jennifer Garner",
+        "rank": 21
+    },
+    "Jennifer Lopez": {
+        "age": " 46 ",
+        "birth": " Jul 24 1969 ",
         "birth-place": " New York, USA ",
         "gender": "unknown",
-        "name": "Liv Tyler",
-        "rank": 96
+        "name": "Jennifer Lopez",
+        "rank": 29
     },
-    {
+    "Jessica Alba": {
         "age": " 35 ",
         "birth": " Apr 28 1981 ",
         "birth-place": " Pomona, USA ",
@@ -775,15 +303,63 @@
         "name": "Jessica Alba",
         "rank": 97
     },
-    {
-        "age": " 34 ",
-        "birth": " Apr 30 1982 ",
-        "birth-place": " New Jersey, USA ",
-        "gender": "f",
-        "name": "Kirsten Dunst",
-        "rank": 98
+    "Jionni Lavalle": {
+        "age": " 29 ",
+        "birth": " Mar 20 1987 ",
+        "birth-place": " USA ",
+        "gender": "unknown",
+        "name": "Jionni Lavalle",
+        "rank": 67
     },
-    {
+    "Joel Kinnaman": {
+        "age": " 36 ",
+        "birth": " Nov 25 1979 ",
+        "birth-place": " Sweden ",
+        "gender": "m",
+        "name": "Joel Kinnaman",
+        "rank": 76
+    },
+    "John Krasinski": {
+        "age": " 36 ",
+        "birth": " Oct 20 1979 ",
+        "birth-place": " Newton, Massachusetts, USA ",
+        "gender": "unknown",
+        "name": "John Krasinski",
+        "rank": 34
+    },
+    "Justin Bieber": {
+        "age": " 22 ",
+        "birth": " Mar 1 1994 ",
+        "birth-place": " Stratford, Canada ",
+        "gender": "unknown",
+        "name": "Justin Bieber",
+        "rank": 2
+    },
+    "Justin Theroux": {
+        "age": " 44 ",
+        "birth": " Aug 10 1971 ",
+        "birth-place": " Wash",
+        "gender": "unknown",
+        "name": "Justin Theroux",
+        "rank": 87
+    },
+    "Kaley Cuoco": {
+        "age": " 30 ",
+        "birth": " Nov 30 1985 ",
+        "birth-place": " Camarillo, California, USA ",
+        "gender": "f",
+        "name": "Kaley Cuoco",
+        "rank": 90
+    },
+    "Kanye West": {
+        "age": " 39 ",
+        "birth": " Jun 8 1977 ",
+        "birth-place": " Atlanta, USA ",
+        "gender": "unknown",
+        "name": "Kanye West",
+        "rank": 5
+    },
+    "Kate Beckinsale": {
         "age": " 42 ",
         "birth": " Jul 26 1973 ",
         "birth-place": " London, England ",
@@ -791,12 +367,436 @@
         "name": "Kate Beckinsale",
         "rank": 99
     },
-    {
+    "Kate Hudson": {
+        "age": " 37 ",
+        "birth": " Apr 19 1979 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "unknown",
+        "name": "Kate Hudson",
+        "rank": 17
+    },
+    "Kendall Jenner": {
+        "age": " 20 ",
+        "birth": " Nov 3 1995 ",
+        "birth-place": " Los Angeles, California, USA ",
+        "gender": "unknown",
+        "name": "Kendall Jenner",
+        "rank": 6
+    },
+    "Khloe Kardashian": {
+        "age": " 31 ",
+        "birth": " Jun 27 1984 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "unknown",
+        "name": "Khloe Kardashian",
+        "rank": 7
+    },
+    "Kim Kardashian": {
+        "age": " 35 ",
+        "birth": " Oct 21 1980 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "unknown",
+        "name": "Kim Kardashian",
+        "rank": 40
+    },
+    "Kirsten Dunst": {
+        "age": " 34 ",
+        "birth": " Apr 30 1982 ",
+        "birth-place": " New Jersey, USA ",
+        "gender": "f",
+        "name": "Kirsten Dunst",
+        "rank": 98
+    },
+    "Kourtney Kardashian": {
+        "age": " 37 ",
+        "birth": " Apr 18 1979 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "unknown",
+        "name": "Kourtney Kardashian",
+        "rank": 68
+    },
+    "Kris Jenner": {
+        "age": " 60 ",
+        "birth": " Nov 5 1955 ",
+        "birth-place": " San Diego, California, USA ",
+        "gender": "f",
+        "name": "Kris Jenner",
+        "rank": 57
+    },
+    "Kristen Stewart": {
+        "age": " 26 ",
+        "birth": " Apr 9 1990 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "f",
+        "name": "Kristen Stewart",
+        "rank": 56
+    },
+    "Kristin Cavallari": {
+        "age": " 29 ",
+        "birth": " Jan 5 1987 ",
+        "birth-place": " Denver, USA ",
+        "gender": "unknown",
+        "name": "Kristin Cavallari",
+        "rank": 25
+    },
+    "Krysten Ritter": {
+        "age": " 34 ",
+        "birth": " Dec 16 1981 ",
+        "birth-place": " Bloomsberg, Pennsylvania, USA ",
+        "gender": "f",
+        "name": "Krysten Ritter",
+        "rank": 94
+    },
+    "Kylie Jenner": {
+        "age": " 18 ",
+        "birth": " Aug 10 1997 ",
+        "birth-place": " California, USA ",
+        "gender": "unknown",
+        "name": "Kylie Jenner",
+        "rank": 16
+    },
+    "Leonardo Dicaprio": {
+        "age": " 41 ",
+        "birth": " Nov 11 1974 ",
+        "birth-place": " Hollywood, USA ",
+        "gender": "unknown",
+        "name": "Leonardo Dicaprio",
+        "rank": 63
+    },
+    "Liam Hemsworth": {
+        "age": " 26 ",
+        "birth": " Jan 1 1990 ",
+        "birth-place": " Melbourne, Australia ",
+        "gender": "unknown",
+        "name": "Liam Hemsworth",
+        "rank": 41
+    },
+    "Liv Tyler": {
+        "age": " 38 ",
+        "birth": " Jul 1 1977 ",
+        "birth-place": " New York, USA ",
+        "gender": "unknown",
+        "name": "Liv Tyler",
+        "rank": 96
+    },
+    "Louis Tomlinson": {
+        "age": " 24 ",
+        "birth": " Dec 24 1991 ",
+        "birth-place": " Doncaster, England ",
+        "gender": "unknown",
+        "name": "Louis Tomlinson",
+        "rank": 18
+    },
+    "Margot Robbie": {
+        "age": " 25 ",
+        "birth": " Jul 2 1990 ",
+        "birth-place": " Australia ",
+        "gender": "f",
+        "name": "Margot Robbie",
+        "rank": 79
+    },
+    "Mariah Carey": {
+        "age": " 46 ",
+        "birth": " Mar 27 1970 ",
+        "birth-place": " New York, USA ",
+        "gender": "f",
+        "name": "Mariah Carey",
+        "rank": 22
+    },
+    "Marisa Tomei": {
         "age": " 51 ",
         "birth": " Dec 4 1964 ",
         "birth-place": " Brooklyn, New York, USA ",
         "gender": "f",
         "name": "Marisa Tomei",
         "rank": 100
+    },
+    "Matt Damon": {
+        "age": " 45 ",
+        "birth": " Oct 8 1970 ",
+        "birth-place": " Massachusetts, USA ",
+        "gender": "unknown",
+        "name": "Matt Damon",
+        "rank": 95
+    },
+    "Michael Jackson": {
+        "age": " 50 ",
+        "birth": " Aug 29 1958 ",
+        "birth-place": " Gary, Indiana, USA ",
+        "gender": "unknown",
+        "name": "Michael Jackson",
+        "rank": 8
+    },
+    "Michelle Williams": {
+        "age": " 35 ",
+        "birth": " Sep 9 1980 ",
+        "birth-place": " Montana, USA ",
+        "gender": "f",
+        "name": "Michelle Williams",
+        "rank": 61
+    },
+    "Miley Cyrus": {
+        "age": " 23 ",
+        "birth": " Nov 23 1992 ",
+        "birth-place": " Nashville, USA ",
+        "gender": "unknown",
+        "name": "Miley Cyrus",
+        "rank": 44
+    },
+    "Miranda Kerr": {
+        "age": " 31 ",
+        "birth": " Apr 20 1985 ",
+        "birth-place": " Gunnedah, Australia ",
+        "gender": "unknown",
+        "name": "Miranda Kerr",
+        "rank": 59
+    },
+    "Monica Bellucci": {
+        "age": " 51 ",
+        "birth": " Sep 30 1964 ",
+        "birth-place": " Umbria, Italy ",
+        "gender": "unknown",
+        "name": "Monica Bellucci",
+        "rank": 49
+    },
+    "Nick Cannon": {
+        "age": " 35 ",
+        "birth": " Oct 8 1980 ",
+        "birth-place": " San Diego, California, USA ",
+        "gender": "unknown",
+        "name": "Nick Cannon",
+        "rank": 54
+    },
+    "Olivia Munn": {
+        "age": "unknown",
+        "birth": "unknown",
+        "birth-place": "unknown",
+        "gender": "unknown",
+        "name": "Olivia Munn",
+        "rank": 62
+    },
+    "Oprah Winfrey": {
+        "age": " 62 ",
+        "birth": " Jan 29 1954 ",
+        "birth-place": " Kosciusko, Mississippi, USA ",
+        "gender": "f",
+        "name": "Oprah Winfrey",
+        "rank": 13
+    },
+    "Penelope Cruz": {
+        "age": " 42 ",
+        "birth": " Apr 28 1974 ",
+        "birth-place": " Madrid, Spa",
+        "gender": "unknown",
+        "name": "Penelope Cruz",
+        "rank": 33
+    },
+    "Pixie Lott": {
+        "age": " 25 ",
+        "birth": " Jan 12 1991 ",
+        "birth-place": " Kent, England ",
+        "gender": "f",
+        "name": "Pixie Lott",
+        "rank": 55
+    },
+    "Regina King": {
+        "age": " 45 ",
+        "birth": " Jan 15 1971 ",
+        "birth-place": " Los Angeles, California, USA ",
+        "gender": "f",
+        "name": "Regina King",
+        "rank": 85
+    },
+    "Rihanna": {
+        "age": " 28 ",
+        "birth": " Feb 20 1988 ",
+        "birth-place": " St. Michael, Barbados ",
+        "gender": "m",
+        "name": "Rihanna",
+        "rank": 66
+    },
+    "Rita Ora": {
+        "age": " 25 ",
+        "birth": " Nov 26 1990 ",
+        "birth-place": " West London, England ",
+        "gender": "f",
+        "name": "Rita Ora",
+        "rank": 1
+    },
+    "Rob Kardashian": {
+        "age": " 29 ",
+        "birth": " Mar 17 1987 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "unknown",
+        "name": "Rob Kardashian",
+        "rank": 3
+    },
+    "Rumer Willis": {
+        "age": " 27 ",
+        "birth": " Aug 16 1988 ",
+        "birth-place": " Paducah, Kentucky, USA ",
+        "gender": "unknown",
+        "name": "Rumer Willis",
+        "rank": 35
+    },
+    "Ryan Cabrera": {
+        "age": " 33 ",
+        "birth": " Jul 18 1982 ",
+        "birth-place": " Dallas, Texas, USA ",
+        "gender": "unknown",
+        "name": "Ryan Cabrera",
+        "rank": 39
+    },
+    "Salma Hayek": {
+        "age": " 49 ",
+        "birth": " Sep 2 1966 ",
+        "birth-place": " Veracruz, Mexico ",
+        "gender": "f",
+        "name": "Salma Hayek",
+        "rank": 23
+    },
+    "Scott Disick": {
+        "age": " 33 ",
+        "birth": " Jan 1 1983 ",
+        "birth-place": " New york ",
+        "gender": "unknown",
+        "name": "Scott Disick",
+        "rank": 46
+    },
+    "Seal": {
+        "age": " 53 ",
+        "birth": " Feb 19 1963 ",
+        "birth-place": " London, England ",
+        "gender": "m",
+        "name": "Seal",
+        "rank": 71
+    },
+    "Selena Gomez": {
+        "age": " 23 ",
+        "birth": " Jul 22 1992 ",
+        "birth-place": " New York, USA ",
+        "gender": "unknown",
+        "name": "Selena Gomez",
+        "rank": 31
+    },
+    "Snooki": {
+        "age": " 28 ",
+        "birth": " Nov 23 1987 ",
+        "birth-place": " Santiago, Chile ",
+        "gender": "unknown",
+        "name": "Snooki",
+        "rank": 26
+    },
+    "Sofia Vergara": {
+        "age": " 43 ",
+        "birth": " Jul 10 1972 ",
+        "birth-place": " Colombia ",
+        "gender": "unknown",
+        "name": "Sofia Vergara",
+        "rank": 19
+    },
+    "Spike Lee": {
+        "age": " 59 ",
+        "birth": " Mar 20 1957 ",
+        "birth-place": " Atlanta, Georgia, USA ",
+        "gender": "unknown",
+        "name": "Spike Lee",
+        "rank": 52
+    },
+    "Stephanie Pratt": {
+        "age": " 30 ",
+        "birth": " Apr 11 1986 ",
+        "birth-place": " Orange County, Los Angeles, USA ",
+        "gender": "unknown",
+        "name": "Stephanie Pratt",
+        "rank": 58
+    },
+    "Stephen Baldwin": {
+        "age": " 50 ",
+        "birth": " May 12 1966 ",
+        "birth-place": " Massapequa, New York, USA ",
+        "gender": "m",
+        "name": "Stephen Baldwin",
+        "rank": 88
+    },
+    "Steven Tyler": {
+        "age": " 68 ",
+        "birth": " Mar 26 1948 ",
+        "birth-place": " Yonkers, New York, USA ",
+        "gender": "unknown",
+        "name": "Steven Tyler",
+        "rank": 36
+    },
+    "Taylor Swift": {
+        "age": " 26 ",
+        "birth": " Dec 13 1989 ",
+        "birth-place": " Wyomiss",
+        "gender": "f",
+        "name": "Taylor Swift",
+        "rank": 72
+    },
+    "Tori Spelling": {
+        "age": " 43 ",
+        "birth": " May 16 1973 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "f",
+        "name": "Tori Spelling",
+        "rank": 28
+    },
+    "Tyga": {
+        "age": " 26 ",
+        "birth": " Nov 19 1989 ",
+        "birth-place": " Compton, California ",
+        "gender": "unknown",
+        "name": "Tyga",
+        "rank": 42
+    },
+    "Tyra Banks": {
+        "age": " 42 ",
+        "birth": " Dec 4 1973 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "unknown",
+        "name": "Tyra Banks",
+        "rank": 9
+    },
+    "Will Arnett": {
+        "age": " 46 ",
+        "birth": " May 4 1970 ",
+        "birth-place": " Toronto, Ontario, Canada ",
+        "gender": "unknown",
+        "name": "Will Arnett",
+        "rank": 80
+    },
+    "Will Smith": {
+        "age": " 47 ",
+        "birth": " Sep 25 1968 ",
+        "birth-place": " Philadelphia, USA ",
+        "gender": "unknown",
+        "name": "Will Smith",
+        "rank": 69
+    },
+    "Winston Marshall": {
+        "age": " 27 ",
+        "birth": " Feb 26 1989 ",
+        "birth-place": " England ",
+        "gender": "unknown",
+        "name": "Winston Marshall",
+        "rank": 65
+    },
+    "Zayn Malik": {
+        "age": " 23 ",
+        "birth": " Jan 12 1993 ",
+        "birth-place": " West Lane Beldon ",
+        "gender": "unknown",
+        "name": "Zayn Malik",
+        "rank": 4
+    },
+    "Zoe Kravitz": {
+        "age": " 27 ",
+        "birth": " Dec 1 1988 ",
+        "birth-place": " Los Angeles, USA ",
+        "gender": "unknown",
+        "name": "Zoe Kravitz",
+        "rank": 83
     }
-]
+}

@@ -42,14 +42,45 @@ logfile_name = bot_username + ".log"
 def create_tweet():
     """Create the text of the tweet you want to send."""
 
+    #list of exclamations
+    exclamations = ["Yay!", "Oh no!"]
+
     #open celeb and dota files
     with open('celebs.json') as celebs_file:    
         celebs = json.load(celebs_file)
     with open('heroes.json') as heroes_file:    
         heroes = json.load(heroes_file)
 
-    # Replace this with your code!
-    text = "testing tweet"
+    #choose random celeb and hero and spell
+    celeb = random.choice(list(celebs.keys()))
+    hero = random.choice(list(heroes.keys()))
+
+    spellFlag = False
+    i = 0
+    while (not spellFlag):
+        spell = random.choice(list(heroes[hero]["abilities"].keys()))
+        #Make sure no passive or non target or creep spells are chosen 
+        if("No Target" not in heroes[hero]["abilities"][spell]["affects"] and "Passive" not in heroes[hero]["abilities"][spell]["affects"] and "Allies" not in heroes[hero]["abilities"][spell]["affects"]):
+            spellFlag = True
+        else:
+            i = i+1
+            if (i > 10):
+                hero = random.choice(list(heroes.keys()))
+
+    if("Unit Target" in heroes[hero]["abilities"][spell]["affects"]):
+        spellType = "unit"
+    elif("Point Target" in heroes[hero]["abilities"][spell]["affects"]):
+        spellType = "area"
+
+    if("Enemy Units" in heroes[hero]["abilities"][spell]["affects"]):
+        affects = "enemies"
+    elif("Allied Heroes" in heroes[hero]["abilities"][spell]["affects"]):
+        affects = "allies"
+
+    hero = hero.replace("_", " ").title()
+    spell = spell.replace("_", " ").title()    
+   
+    text = hero + " " + spell + "s " + celeb
     return text
 
 
@@ -80,3 +111,4 @@ def log(message):
 if __name__ == "__main__":
     tweet_text = create_tweet()   
     tweet(tweet_text)
+    print(tweet_text)
