@@ -78,7 +78,7 @@ def create_tweet():
         affects = "allies"
 
     hero = hero.replace("_", " ").title()
-    spell = spell.replace("_", " ").title()    
+    spell = spell.replace("_", " ").title()
    
     text = hero + " " + spell + "s " + celeb
     return text

@@ -1,3 +1,5 @@
+#Get celebrity data from posh24.com
+
 from bs4 import BeautifulSoup
 import json
 import re
