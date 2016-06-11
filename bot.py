@@ -22,6 +22,8 @@ import os
 import tweepy
 from secrets import *
 from time import gmtime, strftime
+import json
+import random
 
 from secrets import *
 
@@ -39,6 +41,13 @@ logfile_name = bot_username + ".log"
 
 def create_tweet():
     """Create the text of the tweet you want to send."""
+
+    #open celeb and dota files
+    with open('celebs.json') as celebs_file:    
+        celebs = json.load(celebs_file)
+    with open('heroes.json') as heroes_file:    
+        heroes = json.load(heroes_file)
+
     # Replace this with your code!
     text = "testing tweet"
     return text
