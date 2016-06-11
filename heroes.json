@@ -1,0 +1,557 @@
+[	
+	{
+		"name":"abaddon",
+		"path":"./images/heroes/abaddon.jpg",
+		"id": 102
+	},
+	{
+		"name":"alchemist",
+		"path":"./images/heroes/alchemist.jpg",
+		"id": 73
+	},
+	{
+		"name":"ancient_apparition",
+		"path":"./images/heroes/ancient_apparition.jpg",
+		"id": 68
+	},
+	{
+		"name":"antimage",
+		"path":"./images/heroes/antimage.jpg",
+		"id": 1
+	},
+	{
+		"name":"arc_warden",
+		"path":"./images/heroes/arc_warden.jpg",
+		"id": 113
+	},
+	{
+		"name":"axe",
+		"path":"./images/heroes/axe.jpg",
+		"id": 2
+	},
+	{
+		"name":"bane",
+		"path":"./images/heroes/bane.jpg",
+		"id": 3
+	},
+	{
+		"name":"batrider",
+		"path":"./images/heroes/batrider.jpg",
+		"id": 65
+	},
+	{
+		"name":"beastmaster",
+		"path":"./images/heroes/beastmaster.jpg",
+		"id": 38
+	},
+	{
+		"name":"bloodseeker",
+		"path":"./images/heroes/bloodseeker.jpg",
+		"id": 4
+	},
+	{
+		"name":"bounty_hunter",
+		"path":"./images/heroes/bounty_hunter.jpg",
+		"id": 62
+	},
+	{
+		"name":"brewmaster",
+		"path":"./images/heroes/brewmaster.jpg",
+		"id": 78
+	},
+	{
+		"name":"bristleback",
+		"path":"./images/heroes/bristleback.jpg",
+		"id": 99
+	},
+	{
+		"name":"broodmother",
+		"path":"./images/heroes/broodmother.jpg",
+		"id": 61
+	},
+	{
+		"name":"centaur",
+		"path":"./images/heroes/centaur.jpg",
+		"id": 96
+	},
+	{
+		"name":"chaos_knight",
+		"path":"./images/heroes/chaos_knight.jpg",
+		"id": 81
+	},
+	{
+		"name":"chen",
+		"path":"./images/heroes/chen.jpg",
+		"id": 66
+	},
+	{
+		"name":"clinkz",
+		"path":"./images/heroes/clinkz.jpg",
+		"id": 56
+	},
+	{
+		"name":"clockwerk",
+		"path":"./images/heroes/clockwerk.jpg",
+		"id": 51
+	},
+	{
+		"name":"crystal_maiden",
+		"path":"./images/heroes/crystal_maiden.jpg",
+		"id": 5
+	},
+	{
+		"name":"dark_seer",
+		"path":"./images/heroes/dark_seer.jpg",
+		"id": 55
+	},
+	{
+		"name":"dazzle",
+		"path":"./images/heroes/dazzle.jpg",
+		"id": 50
+	},
+	{
+		"name":"death_prophet",
+		"path":"./images/heroes/death_prophet.jpg",
+		"id": 43
+	},
+	{
+		"name":"disruptor",
+		"path":"./images/heroes/disruptor.jpg",
+		"id": 87
+	},
+	{
+		"name":"doom",
+		"path":"./images/heroes/doom.jpg",
+		"id": 69
+	},
+	{
+		"name":"dragon_knight",
+		"path":"./images/heroes/dragon_knight.jpg",
+		"id": 49
+	},
+	{
+		"name":"drow_ranger",
+		"path":"./images/heroes/drow_ranger.jpg",
+		"id": 6
+	},
+	{
+		"name":"earthshaker",
+		"path":"./images/heroes/earthshaker.jpg",
+		"id": 7
+	},
+	{
+		"name":"earth_spirit",
+		"path":"./images/heroes/earth_spirit.jpg",
+		"id": 107
+	},
+	{
+		"name":"elder_titan",
+		"path":"./images/heroes/elder_titan.jpg",
+		"id": 103
+	},
+	{
+		"name":"ember_spirit",
+		"path":"./images/heroes/ember_spirit.jpg",
+		"id": 106
+	},
+	{
+		"name":"enchantress",
+		"path":"./images/heroes/enchantress.jpg",
+		"id": 58
+	},
+	{
+		"name":"enigma",
+		"path":"./images/heroes/enigma.jpg",
+		"id": 33
+	},
+	{
+		"name":"faceless_void",
+		"path":"./images/heroes/faceless_void.jpg",
+		"id": 41
+	},
+	{
+		"name":"gyrocopter",
+		"path":"./images/heroes/gyrocopter.jpg",
+		"id": 72
+	},
+	{
+		"name":"huskar",
+		"path":"./images/heroes/huskar.jpg",
+		"id": 59
+	},
+	{
+		"name":"invoker",
+		"path":"./images/heroes/invoker.jpg",
+		"id": 74
+	},
+	{
+		"name":"io",
+		"path":"./images/heroes/io.jpg",
+		"id": 91
+	},
+	{
+		"name":"jakiro",
+		"path":"./images/heroes/jakiro.jpg",
+		"id": 64
+	},
+	{
+		"name":"juggernaut"
+		,"path":"./images/heroes/juggernaut.jpg",
+		"id": 8
+	},
+	{
+		"name":"keeper_of_the_light",
+		"path":"./images/heroes/keeper_of_the_light.jpg",
+		"id": 90
+	},
+	{
+		"name":"kunkka",
+		"path":"./images/heroes/kunkka.jpg",
+		"id": 23
+	},
+	{
+		"name":"legion_commander",
+		"path":"./images/heroes/legion_commander.jpg",
+		"id": 104
+	},
+	{
+		"name":"leshrac",
+		"path":"./images/heroes/leshrac.jpg",
+		"id": 52
+	},
+	{
+		"name":"lich",
+		"path":"./images/heroes/lich.jpg",
+		"id": 31
+	},
+	{
+		"name":"lifestealer",
+		"path":"./images/heroes/lifestealer.jpg",
+		"id": 54
+	},
+	{
+		"name":"lina",
+		"path":"./images/heroes/lina.jpg",
+		"id": 25
+	},
+	{
+		"name":"lion",
+		"path":"./images/heroes/lion.jpg",
+		"id": 26
+	},
+	{
+		"name":"lone_druid",
+		"path":"./images/heroes/lone_druid.jpg",
+		"id": 80
+	},
+	{
+		"name":"luna",
+		"path":"./images/heroes/luna.jpg",
+		"id": 48
+	},
+	{
+		"name":"lycan",
+		"path":"./images/heroes/lycan.jpg",
+		"id": 77
+	},
+	{
+		"name":"magnus",
+		"path":"./images/heroes/magnus.jpg",
+		"id": 97
+	},
+	{
+		"name":"medusa",
+		"path":"./images/heroes/medusa.jpg",
+		"id": 94
+	},
+	{
+		"name":"meepo",
+		"path":"./images/heroes/meepo.jpg",
+		"id": 82
+	},
+	{
+		"name":"mirana",
+		"path":"./images/heroes/mirana.jpg",
+		"id": 9
+	},
+	{
+		"name":"morphling",
+		"path":"./images/heroes/morphling.jpg",
+		"id": 10
+	},
+	{
+		"name":"naga_siren",
+		"path":"./images/heroes/naga_siren.jpg",
+		"id": 89
+	},
+	{
+		"name":"natures_prophet",
+		"path":"./images/heroes/natures_prophet.jpg",
+		"id": 53
+	},
+	{
+		"name":"necrophos",
+		"path":"./images/heroes/necrophos.jpg",
+		"id": 36
+	},
+	{
+		"name":"night_stalker",
+		"path":"./images/heroes/night_stalker.jpg",
+		"id": 60
+	},
+	{
+		"name":"nyx_assassin",
+		"path":"./images/heroes/nyx_assassin.jpg",
+		"id": 88
+	},
+	{
+		"name":"ogre_magi",
+		"path":"./images/heroes/ogre_magi.jpg",
+		"id": 84
+	},
+	{
+		"name":"omniknight",
+		"path":"./images/heroes/omniknight.jpg",
+		"id": 57
+	},
+	{
+		"name":"oracle",
+		"path":"./images/heroes/oracle.jpg",
+		"id": 111
+	},
+	{
+		"name":"outworld_devourer",
+		"path":"./images/heroes/outworld_devourer.jpg",
+		"id": 76
+	},
+	{
+		"name":"phantom_assassin",
+		"path":"./images/heroes/phantom_assassin.jpg",
+		"id": 44
+	},
+	{
+		"name":"phantom_lancer",
+		"path":"./images/heroes/phantom_lancer.jpg",
+		"id": 12
+	},
+	{
+		"name":"phoenix",
+		"path":"./images/heroes/phoenix.jpg",
+		"id": 110
+	},
+	{
+		"name":"puck",
+		"path":"./images/heroes/puck.jpg",
+		"id": 13
+	},
+	{
+		"name":"pudge",
+		"path":"./images/heroes/pudge.jpg",
+		"id": 14
+	},
+	{
+		"name":"pugna",
+		"path":"./images/heroes/pugna.jpg",
+		"id": 45
+	},
+	{
+		"name":"queen_of_pain",
+		"path":"./images/heroes/queen_of_pain.jpg",
+		"id": 39
+	},
+	{
+		"name":"razor",
+		"path":"./images/heroes/razor.jpg",
+		"id": 15
+	},
+	{
+		"name":"riki",
+		"path":"./images/heroes/riki.jpg",
+		"id": 32
+	},
+	{
+		"name":"rubick",
+		"path":"./images/heroes/rubick.jpg",
+		"id": 86
+	},
+	{
+		"name":"sand_king",
+		"path":"./images/heroes/sand_king.jpg",
+		"id": 16
+	},
+	{
+		"name":"shadow_demon",
+		"path":"./images/heroes/shadow_demon.jpg",
+		"id": 79
+	},
+	{
+		"name":"shadow_fiend",
+		"path":"./images/heroes/shadow_fiend.jpg",
+		"id": 11
+	},
+	{
+		"name":"shadow_shaman",
+		"path":"./images/heroes/shadow_shaman.jpg",
+		"id": 27
+	},
+	{
+		"name":"silencer",
+		"path":"./images/heroes/silencer.jpg",
+		"id": 75
+	},
+	{
+		"name":"skywrath_mage",
+		"path":"./images/heroes/skywrath_mage.jpg",
+		"id": 101
+	},
+	{
+		"name":"slardar",
+		"path":"./images/heroes/slardar.jpg",
+		"id": 28
+	},
+	{
+		"name":"slark",
+		"path":"./images/heroes/slark.jpg",
+		"id": 93
+	},
+	{
+		"name":"sniper",
+		"path":"./images/heroes/sniper.jpg",
+		"id": 35
+	},
+	{
+		"name":"spectre",
+		"path":"./images/heroes/spectre.jpg",
+		"id": 67
+	},
+	{
+		"name":"spirit_breaker",
+		"path":"./images/heroes/spirit_breaker.jpg",
+		"id": 71
+	},
+	{
+		"name":"storm_spirit",
+		"path":"./images/heroes/storm_spirit.jpg",
+		"id": 17
+	},
+	{
+		"name":"sven",
+		"path":"./images/heroes/sven.jpg",
+		"id": 18
+	},
+	{
+		"name":"techies",
+		"path":"./images/heroes/techies.jpg",
+		"id": 105
+	},
+	{
+		"name":"templar_assassin",
+		"path":"./images/heroes/templar_assassin.jpg",
+		"id": 46
+	},
+	{
+		"name":"terrorblade",
+		"path":"./images/heroes/terrorblade.jpg",
+		"id": 109
+	},
+	{
+		"name":"tide_hunter",
+		"path":"./images/heroes/tide_hunter.jpg",
+		"id": 29
+	},
+	{
+		"name":"timbersaw",
+		"path":"./images/heroes/timbersaw.jpg",
+		"id": 98
+	},
+	{
+		"name":"tinker",
+		"path":"./images/heroes/tinker.jpg",
+		"id": 34
+	},
+	{
+		"name":"tiny",
+		"path":"./images/heroes/tiny.jpg",
+		"id": 19
+	},
+	{
+		"name":"treant_protector",
+		"path":"./images/heroes/treant_protector.jpg",
+		"id": 83
+	},
+	{
+		"name":"troll_warlord",
+		"path":"./images/heroes/troll_warlord.jpg",
+		"id": 95
+	},
+	{
+		"name":"tusk",
+		"path":"./images/heroes/tusk.jpg",
+		"id": 100
+	},
+	{
+		"name":"undying",
+		"path":"./images/heroes/undying.jpg",
+		"id": 85
+	},
+	{
+		"name":"ursa",
+		"path":"./images/heroes/ursa.jpg",
+		"id": 70
+	},
+	{
+		"name":"vengeful_spirit",
+		"path":"./images/heroes/vengeful_spirit.jpg",
+		"id": 20
+	},
+	{
+		"name":"venomancer",
+		"path":"./images/heroes/venomancer.jpg",
+		"id": 40
+	},
+	{
+		"name":"viper",
+		"path":"./images/heroes/viper.jpg",
+		"id": 47
+	},
+	{
+		"name":"visage",
+		"path":"./images/heroes/visage.jpg",
+		"id": 92
+	},
+	{
+		"name":"warlock",
+		"path":"./images/heroes/warlock.jpg",
+		"id": 37
+	},
+	{
+		"name":"weaver",
+		"path":"./images/heroes/weaver.jpg",
+		"id": 63
+	},
+	{
+		"name":"windranger",
+		"path":"./images/heroes/windranger.jpg",
+		"id": 21
+	},
+	{
+		"name":"winter_wyvern",
+		"path":"./images/heroes/winter_wyvern.jpg",
+		"id": 112
+	},
+	{
+		"name":"witch_doctor",
+		"path":"./images/heroes/witch_doctor.jpg",
+		"id": 30
+	},
+	{
+		"name":"wraith_king",
+		"path":"./images/heroes/wraith_king.jpg",
+		"id": 42
+	},
+	{
+		"name":"zeus",
+		"path":"./images/heroes/zeus.jpg",
+		"id": 22
+	}
+]

@@ -1,0 +1,5 @@
+
+10 Jun 2016 13:53:49 [{'code': 215, 'message': 'Bad Authentication data.'}]
+10 Jun 2016 13:56:28 [{'message': 'Bad Authentication data.', 'code': 215}]
+10 Jun 2016 13:56:58 Tweeted: testing tweet
+10 Jun 2016 14:03:56 Tweeted: testing tweet
