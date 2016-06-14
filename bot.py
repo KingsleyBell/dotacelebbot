@@ -18,7 +18,12 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+# Run script with python3 using args:
+#   Follow, to follow list of dotacelebs found in json file
+#   Tweet, to tweet randomly selected hero spell on randomly selected dota celeb 
+
 import os
+import sys
 import tweepy
 from secrets import *
 from time import gmtime, strftime
@@ -46,7 +51,7 @@ def create_tweet():
     exclamations = ["Yay!", "Oh no!"]
 
     #open celeb and dota files
-    with open('celebs.json') as celebs_file:    
+    with open('dotaCelebs.json') as celebs_file:    
         celebs = json.load(celebs_file)
     with open('heroes.json') as heroes_file:    
         heroes = json.load(heroes_file)
@@ -95,9 +100,27 @@ def tweet(text):
     try:
         api.update_status(text)
     except tweepy.error.TweepError as e:
-        log(str(e))
+        log("Can't tweet \"" + text + "\"\nError: " str(e))
     else:
         log("Tweeted: " + text)
+
+def followCelebs():
+    """Follow all the dota celebs """
+    # Twitter authentication
+    auth = tweepy.OAuthHandler(C_KEY, C_SECRET)
+    auth.set_access_token(A_TOKEN, A_TOKEN_SECRET)
+    api = tweepy.API(auth)
+
+    with open('dotaCelebs.json') as celebs_file:    
+        celebs = list(json.load(celebs_file).keys())
+        for celeb in celebs:
+            try:
+                api.create_friendship(celeb)
+            except tweepy.error.TweepError as e:
+                log("cant follow " + celeb + "\nError: " + str(e))
+            else:
+                log("followed: " + celeb) 
+
 
 
 def log(message):
@@ -109,6 +132,11 @@ def log(message):
 
 
 if __name__ == "__main__":
-    tweet_text = create_tweet()   
-    tweet(tweet_text)
-    print(tweet_text)
+    if (sys.argv[1] == 'tweet'):
+        tweet_text = create_tweet()   
+        tweet(tweet_text)
+        print(tweet_text)
+    elif (sys.argv[1] == 'follow'):
+        followCelebs()
+    else:
+        print(sys.argv[1])
