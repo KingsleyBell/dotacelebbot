@@ -55,10 +55,16 @@ def create_tweet():
         celebs = json.load(celebs_file)
     with open('heroes.json') as heroes_file:    
         heroes = json.load(heroes_file)
+    with open('dotaTexts.txt') as text_file:
+        texts = text_file.read().splitlines()
 
-    #choose random celeb and hero and spell
+    #choose random celeb and hero and spell and  maybe text
     celeb = random.choice(list(celebs.keys()))
     hero = random.choice(list(heroes.keys()))
+    chance = random.randint(0,1)
+    afterText = ""
+    if (chance):
+        afterText = random.choice(texts)
 
     spellFlag = False
     i = 0
@@ -85,7 +91,7 @@ def create_tweet():
     hero = hero.replace("_", " ").title()
     spell = spell.replace("_", " ").title()
    
-    text = hero + " " + spell + "s " + celeb
+    text = hero + " " + spell + "s " + celeb + ". " + afterText
     return text
 
 
@@ -100,7 +106,7 @@ def tweet(text):
     try:
         api.update_status(text)
     except tweepy.error.TweepError as e:
-        log("Can't tweet \"" + text + "\"\nError: " str(e))
+        log("Can't tweet \"" + text + "\"\nError: " + str(e))
     else:
         log("Tweeted: " + text)
 
